@@ -1,8 +1,8 @@
 # EX.NO.6: Heart attack prediction using MLP
 
 
-<H3>NAME : PRIYADHARSHINI P</H3>
-<H3>REGISTER NO : 212224040252</H3>
+<H3>NAME : Prathik TS</H3>
+<H3>REGISTER NO : 212224240117</H3>
 <H3>DATE: 17.03.2026</H3>
 
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
